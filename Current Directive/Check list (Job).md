@@ -3,6 +3,7 @@
 - [ ] Website
 - [ ] Upload FMW photo album to the FMW page on website
 - [ ] Fee Entry
+- [ ] Update ATOM
 - [ ] Ask rajeev about teachers id card samples
 - [ ] Send SIster, ID Card data to Rajeev
 	- [ ] Ask Sister, for Sisters data
