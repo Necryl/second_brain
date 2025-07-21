@@ -1,18 +1,18 @@
 -
 ## 2025-07-21
-- [ ] Website
 - [ ] Upload FMW photo album to the FMW page on website
-- [ ] Fee Entry
-- [ ] Update ATOM
-- [ ] Those email entries from Jenie maam
-- [ ] Ask rajeev about teachers id card samples
-- [ ] Send SIster, ID Card data to Rajeev
+- [ ] Ask Rajeev about teachers id card samples
+- [ ] Send Sister, ID Card data to Rajeev
 	- [ ] Ask Sister, for Sisters data
 	- [ ] Which sisters?
 	- [ ] should i make a form?
 - [ ] Prepare photos for ID Card print
 	 - [ ] confirm data and photos
 	 - [ ] make list of dob cards not received
+- [ ] Update ATOM
+- [ ] Fee Entry
+- [ ] Those email entries from Jenie maam
+- [ ] Website
 - [ ] check fee entries in software
 - [ ] Research about setting up a display in school lounge to display daily birthday wishes and latest event photos.
 - [ ] Identify days for which you need to make posters and make em
