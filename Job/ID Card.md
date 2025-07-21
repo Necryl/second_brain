@@ -8,15 +8,25 @@ Workers:
 
 Special cases:
 - Remove father's name
-	- savhyata chaudhary
-	- class 9 c
-	- adm no 13967
+	- 9 C - 13967 - SAVHYATA CHAUDHARY
 - Father name not printed, but it was sent to printers:
-	- Adm No 10431
-	- Name: Kavya Anand
-	- Class: 10-D
+	- 10 D - 10431 - KAVYA ANAND
 - Kid removed the printed card from the frame
 	- LKG	A - 13744 - TAHOOR FATIMA
+
+
+- 5 C - 12012 - TAPASYA YADAV
+- 3 B - 12413 - ANIKA
+- 5 C - 13396 - SAMRIDDHI RAWAT
+- 5 C - 12013 - TAVISHI MISHRA
+- 2 D - 12746 - NIVITA ARYA
+- 5 C - 11987 - SHAURYA
+- 5 C - 12021 - VEDANGI RAJORIYA
+- 5 C - 12854 - UZMA TOFEEQ
+- 5 C - 12001 - SNEHA GIRI
+- 8 D - 14008 - SHANVI SINGH II
+- 3 B - 12412 - ANIKA
+- 5 C - 11981 - SHAANVI MAHUNEY
 
 New Admission (Photo needs to be taken):
 - [x] 9 A - 14053 - AVANI SRIVASTAVA
