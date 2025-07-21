@@ -3,9 +3,10 @@
 - [ ] Prepare photos for ID Card print
 	- [x] make list of dob cards not received
 	- [x] Give the list to teachers to retrieve id card
+	- [ ] prepare and print image report to confirm photos of dob issues
 	- [ ] confirm data and photos
-- [ ] Update ATOM
-- [ ] Upload FMW photo album to the FMW page on website
+- [x] Update ATOM
+- [ ] Upload FMW phot0o album to the FMW page on website
 - [ ] help harish sir for availing dell warranty for damaged monitor
 - [ ] Fee Entry
 - [ ] Send Sister, ID Card data to Rajeev
