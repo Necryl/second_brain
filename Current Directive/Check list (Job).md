@@ -1,17 +1,18 @@
 -
 ## 2025-07-21
 - [ ] Prepare photos for ID Card print
-	- [ ] Get list of missing children give to the teachers.
-	 - [ ] confirm data and photos
-	 - [ ] make list of dob cards not received
+	- [x] make list of dob cards not received
+	- [x] Give the list to teachers to retrieve id card
+	- [ ] confirm data and photos
+- [ ] Update ATOM
+- [ ] Upload FMW photo album to the FMW page on website
+- [ ] help harish sir for availing dell warranty for damaged monitor
+- [ ] Fee Entry
 - [ ] Send Sister, ID Card data to Rajeev
 	- [ ] Ask Sister, for Sisters data
 	- [ ] Which sisters?
 	- [ ] should i make a form?
-- [ ] Upload FMW photo album to the FMW page on website
 - [ ] Ask Rajeev about teachers id card samples
-- [ ] Update ATOM
-- [ ] Fee Entry
 - [ ] Those email entries from Jenie maam
 - [ ] Website
 - [ ] check fee entries in software
