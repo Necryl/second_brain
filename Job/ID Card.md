@@ -6,7 +6,7 @@ Workers:
 
 
 
-SPecial cases:
+Special cases:
 - Remove father's name
 	- savhyata chaudhary
 	- class 9 c
@@ -17,3 +17,6 @@ SPecial cases:
 	- Class: 10-D
 - Kid removed the printed card from the frame
 	- LKG	A - 13744 - TAHOOR FATIMA
+
+New Admission (Photo needs to be taken):
+- [x] 9 A - 14053 - AVANI SRIVASTAVA
