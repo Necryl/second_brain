@@ -1,14 +1,15 @@
 -
 ## 2025-07-21
-- [ ] Upload FMW photo album to the FMW page on website
-- [ ] Ask Rajeev about teachers id card samples
+- [ ] Prepare photos for ID Card print
+	- [ ] Get list of missing children give to the teachers.
+	 - [ ] confirm data and photos
+	 - [ ] make list of dob cards not received
 - [ ] Send Sister, ID Card data to Rajeev
 	- [ ] Ask Sister, for Sisters data
 	- [ ] Which sisters?
 	- [ ] should i make a form?
-- [ ] Prepare photos for ID Card print
-	 - [ ] confirm data and photos
-	 - [ ] make list of dob cards not received
+- [ ] Upload FMW photo album to the FMW page on website
+- [ ] Ask Rajeev about teachers id card samples
 - [ ] Update ATOM
 - [ ] Fee Entry
 - [ ] Those email entries from Jenie maam
