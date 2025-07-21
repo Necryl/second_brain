@@ -7,7 +7,7 @@
 	- [ ] confirm data and photos
 - [x] Update ATOM
 - [ ] Upload FMW photo album to the FMW page on website
-- [ ] help harish sir for availing dell warranty for damaged monitor
+- [x] help harish sir for availing dell warranty for damaged monitor
 - [ ] Fee Entry
 - [ ] Send Sister, ID Card data to Rajeev
 	- [ ] Ask Sister, for Sisters data
