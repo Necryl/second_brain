@@ -1,0 +1,9 @@
+- Reciept not showing in App:
+	- 2025-07-10: 13828 - Halima Sadiya, Nursery D
+	- 2025-07-14: 13774 - AARNA  PHARASI, Nursery B
+	- 2025-07-15: 13850 - LAKSHITA  PRAJAPATI , Nursery B
+- Double payment
+	- SHAGUN  SHARMA # 13083 9 B D/o TARUN SHARMA and GEETA SHARMA F#9369880816 M#7973261643 PEN#21160278934
+		- 1st Instalment:
+			- Recipet No: 1947 - 20250415103619001
+			- Reciept No: 1949 - 20250415104219001

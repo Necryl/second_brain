@@ -1,0 +1,5 @@
+- a game with an art style that is easy enough to render on low end devices, but also appealing
+- aim is to make a world where people can engage fully socially over the internet and express more than just speech to each other, and role play into adventures as they explore that digital world.
+- It should be a sandbox world where the players choose what to do with multiple options available, and ability to weave their own stories
+- Have voice chat
+- be customisable enough to create scenarios players can be dropped into.

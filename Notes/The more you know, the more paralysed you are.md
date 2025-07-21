@@ -1,0 +1,2 @@
+Check if the following is true:
+The more things you know, or more datapoints you have, the more paralyzed you become. The less you know, the less excuses you have, and the more freedom you have to move forward, explore and take action. Maybe forget to ignore objections and move faster?

@@ -1,0 +1,1 @@
+1. How realistic do I wanna keep this? Should I add mythological beings and monsters? Should there be entities or spirits in the world of ideas?

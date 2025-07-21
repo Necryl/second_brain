@@ -1,0 +1,136 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {
+        "Due": {
+          "time": true
+        },
+        "Status": {
+          "options": [
+            "Main Quest",
+            "Stalled",
+            "Done"
+          ]
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Job",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "includeFields": [
+              "Due"
+            ],
+            "checkField": "Done",
+            "groupByField": "Status",
+            "columns": {
+              "No status": {
+                "weight": 0
+              },
+              "Inbox": {
+                "weight": 1,
+                "records": [
+                  "Job/send SMS calling parents to school.md",
+                  "/Job/send SMS calling parents to school.md"
+                ]
+              },
+              "Main Quest": {
+                "weight": 2
+              },
+              "Stalled": {
+                "weight": 3
+              },
+              "Done": {
+                "weight": 4
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "a06a6f40-13df-4656-a4ab-625fd996f2ba",
+          "name": "Board",
+          "type": "board"
+        },
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "width": 199
+              },
+              "name": {
+                "width": 398
+              }
+            },
+            "orderFields": [
+              "name",
+              "path",
+              "Done"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "f2428bf5-93de-462f-84f3-61e71aecfc3f",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "e259b200-baba-4dac-893d-07c241d6baba",
+          "name": "Gallery",
+          "type": "gallery"
+        }
+      ],
+      "id": "98c3ab5c-a7db-4fcd-a147-9929d7e85784",
+      "name": "Job"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "default"
+    },
+    "commands": [],
+    "linkBehavior": "open-note"
+  }
+}

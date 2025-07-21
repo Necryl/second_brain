@@ -1,0 +1,5 @@
+Every night a man dreams the same dream.
+
+He finds himself  in labyrinth of empty rooms, with what seems like an apocalyptic grey filter on everything. Go through room after rooms, there is just endless rooms like this. Then out of the hidden corners and the darkness emerges small imp like evilish creatures, half his size, and they start to chase him. He runs and they run after him gathering in numbers and making impish giggling noises. He runs through room after room in terror but eventually they are about to catch up to him. They reach for him with their devilish hands and just as their fingers were about to touch he feels an indescribable inexplicable pain, that comes out of nowhere and everywhere, and he wakes up.
+
+But one night as he was having the same dream he finds something new in that dreary world of grey rooms. Could be a portal or a character that changes up the routine and throws the man's life into chaos.

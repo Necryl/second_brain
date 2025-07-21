@@ -1,0 +1,8 @@
+- a system to help with orientating a human optimally in life
+- aims to put a human in an optimal narrative that fulfils that's human's potential and contributes to making the world a better place
+- provides stories and ideas to immerse oneself in
+- dictates a lifestyle that builds an identity around the individual that pushes the human into the right directions
+- Provides rituals imbibed with deep meaning through stories and other means that enable expression of commitment towards that orientation
+- builds different platforms and conventions to facilitate smooth interactions between individuals with a common will and pushes an individual to fight for its will when it is necessary, but always being aligned to the greater purpose first and foremost, and never getting caught up in local micro conflicts at the expense of the greater purpose.
+- provide many many ways for people of the same purpose to unite and express their unity and explore their will as a group.
+- Be a system that is completely transparent in its methods and intentions, and is maintained and updated by its own users.

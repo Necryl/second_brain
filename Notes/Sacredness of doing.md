@@ -1,0 +1,1 @@
+Doing is the one ability one must never lose. There is much to explore about this, and it is very important. It is our only mode of access to freewill in this world. It is the only way we become agents rather than ripples in time.
