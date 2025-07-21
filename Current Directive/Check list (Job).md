@@ -6,7 +6,7 @@
 	- [ ] prepare and print image report to confirm photos of dob issues
 	- [ ] confirm data and photos
 - [x] Update ATOM
-- [ ] Upload FMW phot0o album to the FMW page on website
+- [ ] Upload FMW photo album to the FMW page on website
 - [ ] help harish sir for availing dell warranty for damaged monitor
 - [ ] Fee Entry
 - [ ] Send Sister, ID Card data to Rajeev
