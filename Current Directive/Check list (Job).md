@@ -8,7 +8,7 @@
 	- [ ] confirm data and photos
 - [ ] Upload FMW photo album to the FMW page on website
 - [x] Update ATOM
-- [ ] Fee Entry
+- [x] Fee Entry
 - [ ] Those email entries from Jenie maam
 - [ ] get that dell damaged monitor fixed
 - [ ] Create check list for tomorrow
