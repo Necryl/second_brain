@@ -1,21 +1,22 @@
 -
-
-## 2025-07-21
+## 2025-07-22
+- [ ] Give Language List to Anjani maam
 - [ ] Prepare photos for ID Card print
-	- [x] make list of dob cards not received
-	- [x] Give the list to teachers to retrieve id card
+	- [ ] Update recieved ID cards of yesterday
+	- [ ] Look into unknown issue id cards
 	- [ ] prepare and print image report to confirm photos of dob issues
 	- [ ] confirm data and photos
-- [x] Update ATOM
 - [ ] Upload FMW photo album to the FMW page on website
-- [x] help harish sir for availing dell warranty for damaged monitor
+- [ ] Update ATOM
 - [ ] Fee Entry
+- [ ] Those email entries from Jenie maam
+- [ ] get that dell damaged monitor fixed
+- [ ] Create check list for tomorrow
 - [ ] Send Sister, ID Card data to Rajeev
 	- [ ] Ask Sister, for Sisters data
 	- [ ] Which sisters?
 	- [ ] should i make a form?
 - [ ] Ask Rajeev about teachers id card samples
-- [ ] Those email entries from Jenie maam
 - [ ] Website
 - [ ] check fee entries in software
 - [ ] Research about setting up a display in school lounge to display daily birthday wishes and latest event photos.
@@ -26,6 +27,12 @@
 
 - [ ] buy two more hard-disk, one for school and one for our work
 - [ ] sister wants a pendrive each for me akhil pankaj (2025-07-15)
+## 2025-07-21
+- [ ] Prepare photos for ID Card print
+	- [x] make list of dob cards not received
+	- [x] Give the list to teachers to retrieve id card
+- [x] Update ATOM
+- [x] help harish sir for availing dell warranty for damaged monitor
 ## 2025-07-20
 Sunday
 ## 2025-07-19
@@ -36,18 +43,7 @@ Sunday
 - [x] Report to Sister which photo albums are not uploaded
 - [x] give that school pendrive to rajeev
 - [ ] Prepare photos for ID Card print
-	 - [ ] confirm data and photos
 	 - [x]  count DOB ID Cards
-	 - [ ] make list of dob cards not received
-- [ ] check fee entries in software
-- [ ] Research about setting up a display in school lounge to display daily birthday wishes and latest event photos.
-- [ ] Identify days for which you need to make posters and make em
-- [ ] buy new Teleios uniforms
-	- [ ] confirm what to buy, overalls will be too hot, why not shirts?
-- [ ] A student wants their application for mother's name back with their documents in class 9 D
-
-- [ ] buy two more hard-disk, one for school and one for our work
-- [ ] sister wants a pendrive each for me akhil pankaj (2025-07-15)
 
 ## 2025-07-18
 (Rainy day)
