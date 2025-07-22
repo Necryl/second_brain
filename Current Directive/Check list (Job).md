@@ -7,7 +7,7 @@
 	- [ ] Update recieved ID cards of yesterday
 	- [ ] confirm data and photos
 - [ ] Upload FMW photo album to the FMW page on website
-- [ ] Update ATOM
+- [x] Update ATOM
 - [ ] Fee Entry
 - [ ] Those email entries from Jenie maam
 - [ ] get that dell damaged monitor fixed
