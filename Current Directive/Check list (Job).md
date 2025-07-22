@@ -3,6 +3,7 @@
 - [x] Give Language List to Anjani maam
 - [ ] Prepare photos for ID Card print
 	- [x] Look into unknown issue id cards (some more left, absent)
+	- [ ] take id card from pakhi singh - 2d
 	- [ ] prepare and print image report to confirm photos of dob issues
 	- [ ] Update recieved ID cards of yesterday
 	- [ ] confirm data and photos
@@ -12,6 +13,7 @@
 - [ ] Those email entries from Jenie maam
 - [ ] get that dell damaged monitor fixed
 - [ ] Create check list for tomorrow
+- [ ] create class pass for rohini george miss - 2d
 - [ ] Send Sister, ID Card data to Rajeev
 	- [ ] Ask Sister, for Sisters data
 	- [ ] Which sisters?
