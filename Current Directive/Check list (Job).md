@@ -2,7 +2,7 @@
 ## 2025-07-22
 - [x] Give Language List to Anjani maam
 - [ ] Prepare photos for ID Card print
-	- [ ] Look into unknown issue id cards
+	- [x] Look into unknown issue id cards (some more left, absent)
 	- [ ] prepare and print image report to confirm photos of dob issues
 	- [ ] Update recieved ID cards of yesterday
 	- [ ] confirm data and photos
