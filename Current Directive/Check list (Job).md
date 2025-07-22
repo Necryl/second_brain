@@ -1,10 +1,10 @@
 -
 ## 2025-07-22
-- [ ] Give Language List to Anjani maam
+- [x] Give Language List to Anjani maam
 - [ ] Prepare photos for ID Card print
-	- [ ] Update recieved ID cards of yesterday
 	- [ ] Look into unknown issue id cards
 	- [ ] prepare and print image report to confirm photos of dob issues
+	- [ ] Update recieved ID cards of yesterday
 	- [ ] confirm data and photos
 - [ ] Upload FMW photo album to the FMW page on website
 - [ ] Update ATOM
