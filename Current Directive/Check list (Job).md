@@ -11,7 +11,7 @@
 - [x] Update ATOM
 - [x] Fee Entry
 - [ ] Those email entries from Jenie maam
-- [ ] get that dell damaged monitor fixed
+- [x] get that dell damaged monitor fixed
 - [ ] Create check list for tomorrow
 - [ ] create class pass for rohini george miss - 2d
 - [ ] Send Sister, ID Card data to Rajeev
