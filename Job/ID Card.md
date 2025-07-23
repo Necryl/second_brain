@@ -30,14 +30,13 @@ Special cases:
 	- [ ] 2D - PAKHI SINGH - ID Card needs to be recalled
 - Spelling mistake:
 	- [x] 5 A - 12859 - MAHIRA DWIVEDI - mother's name (fixed)
+	- [x] 9 B - 14010 - AKSHARA RAO - mother's name (already correct in software, mistake made by Rajeev when making the name shorter with initials. Typed in the initial twice.)
 - DOB incorrect:
 	- [x] 6 C - 13045 - ANANYA YADAV (fixed)
 
 
 Unknown Issue:
-- 9 B - 10698 - SAMRIDDHI MITTAL
 - 9 B - 10709 - SHREYA SHARMA
-- 9 B - 14010 - AKSHARA RAO
 
 Photo needs to be taken:
 - [x] 9 A - 14053 - AVANI SRIVASTAVA (New Admission )
