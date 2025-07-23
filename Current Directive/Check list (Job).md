@@ -8,6 +8,9 @@
 	- [ ] confirm data and photos
 - [ ] Upload FMW photo album to the FMW page on website
 - [x] Update ATOM
+- [ ] scan anjali maams papers
+- [ ] give bill to sr assunta
+- [ ] add concession
 - [ ] Those email entries from Jenie maam
 - [ ] Create check list for tomorrow
 - [ ] create class pass for rohini george miss - 2d
