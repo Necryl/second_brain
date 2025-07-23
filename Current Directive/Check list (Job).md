@@ -1,23 +1,19 @@
 -
-## 2025-07-22
-- [x] Give Language List to Anjani maam
+## 2025-07-23
 - [ ] Prepare photos for ID Card print
-	- [x] Look into unknown issue id cards (some more left, absent)
+	- [ ] Look into unknown issue id cards
 	- [ ] take id card from pakhi singh - 2d
 	- [ ] prepare and print image report to confirm photos of dob issues
 	- [ ] Update recieved ID cards of yesterday
 	- [ ] confirm data and photos
 - [ ] Upload FMW photo album to the FMW page on website
 - [x] Update ATOM
-- [x] Fee Entry
 - [ ] Those email entries from Jenie maam
-- [x] get that dell damaged monitor fixed
 - [ ] Create check list for tomorrow
 - [ ] create class pass for rohini george miss - 2d
 - [ ] Send Sister, ID Card data to Rajeev
 	- [ ] Ask Sister, for Sisters data
 	- [ ] Which sisters?
-	- [ ] should i make a form?
 - [ ] Ask Rajeev about teachers id card samples
 - [ ] Website
 - [ ] check fee entries in software
@@ -27,8 +23,15 @@
 	- [ ] confirm what to buy, overalls will be too hot, why not shirts?
 - [ ] A student wants their application for mother's name back with their documents in class 9 D
 
-- [ ] buy two more hard-disk, one for school and one for our work
+- [ ] buy two more hard-disk, one for school and one for our work (jose sir said he is bringing them 21st July 2025)
 - [ ] sister wants a pendrive each for me akhil pankaj (2025-07-15)
+## 2025-07-22
+- [x] Give Language List to Anjani maam
+- [ ] Prepare photos for ID Card print
+	- [x] Look into unknown issue id cards (some more left, absent)
+- [x] Update ATOM
+- [x] Fee Entry
+- [x] get that dell damaged monitor fixed
 ## 2025-07-21
 - [ ] Prepare photos for ID Card print
 	- [x] make list of dob cards not received
