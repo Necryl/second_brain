@@ -11,6 +11,9 @@
 - [ ] scan anjali maams papers
 - [ ] give bill to sr assunta
 - [ ] add concession
+- [ ] 6 A - 11693 - RIDDHIMA SHASTRI
+	- [ ] apparently somehow refund was initiated or something at ntt data. shiju sir wanted the parent to send an email saying all things are clear for their side.
+	- [ ] I called the parents and they were paranoid and told me to stop calling about this. I tried to speak with them and they said, they will visit the school in person to settle the matter. I asked tomorrow? But then they cut the call. Again.
 - [ ] Those email entries from Jenie maam
 - [ ] Create check list for tomorrow
 - [ ] create class pass for rohini george miss - 2d
