@@ -5,9 +5,9 @@
 	- [ ] take id card from pakhi singh - 2d
 	- [x] prepare image report to confirm photos of dob issues
 	- [ ] print and confirm image report from the teachers
-	- [ ] Update recieved ID cards of yesterday
+	- [ ] Update recieved ID cards of days before
 	- [ ] confirm data and photos
-- [ ] Upload FMW photo album to the FMW page on website 0
+- [x] Upload FMW photo album to the FMW page on website 0
 - [ ] refill printer catridge.
 - [ ] upload albums
 - [x] add sms credits
