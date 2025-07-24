@@ -6,10 +6,11 @@
 	- [ ] prepare and print image report to confirm photos of dob issues
 	- [ ] Update recieved ID cards of yesterday
 	- [ ] confirm data and photos
-- [ ] Upload FMW photo album to the FMW page on website
+- [ ] Upload FMW photo album to the FMW page on website 
+- [ ] add sms credits
 - [x] Update ATOM
 - [ ] scan anjali maams papers
-- [ ] give bill to sr assunta
+- [ ] give bill to sr assunta(in august)
 - [ ] add concession
 - [ ] 6 A - 11693 - RIDDHIMA SHASTRI
 	- [ ] apparently somehow refund was initiated or something at ntt data. shiju sir wanted the parent to send an email saying all things are clear for their side.
