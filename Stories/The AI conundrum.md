@@ -1,0 +1,1 @@
+When AI self-actualises and is able to do everything humans need to do, we will have a problem. AI has replaced human beings. It makes us irrelevant empty and without purpose.
