@@ -1,14 +1,14 @@
 -
-## 2025-07-23
+## 2025-07-24
 - [ ] Prepare photos for ID Card print
 	- [ ] Look into unknown issue id cards
 	- [ ] take id card from pakhi singh - 2d
 	- [ ] prepare and print image report to confirm photos of dob issues
 	- [ ] Update recieved ID cards of yesterday
 	- [ ] confirm data and photos
-- [ ] Upload FMW photo album to the FMW page on website 
+- [ ] Upload FMW photo album to the FMW page on website 0
 - [ ] add sms credits
-- [x] Update ATOM
+- [ ] Update ATOM
 - [ ] scan anjali maams papers
 - [ ] give bill to sr assunta(in august)
 - [ ] add concession
@@ -32,6 +32,11 @@
 
 - [ ] buy two more hard-disk, one for school and one for our work (jose sir said he is bringing them 21st July 2025)
 - [ ] sister wants a pendrive each for me akhil pankaj (2025-07-15)
+## 2025-07-23
+- [ ] Prepare photos for ID Card print
+	- [x] Look into unknown issue id cards
+	- [x] Update recieved ID cards of yesterday
+- [x] Update ATOM
 ## 2025-07-22
 - [x] Give Language List to Anjani maam
 - [ ] Prepare photos for ID Card print
