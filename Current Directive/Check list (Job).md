@@ -9,7 +9,7 @@
 	- [ ] confirm data and photos
 - [ ] Upload FMW photo album to the FMW page on website 0
 - [ ] refill printer catridge.
-- [ ] add sms credits
+- [x] add sms credits
 - [ ] Update ATOM
 - [ ] scan anjali maams papers
 - [ ] give bill to sr assunta(in august)
