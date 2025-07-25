@@ -9,6 +9,7 @@
 	- [ ] confirm data and photos
 - [x] upload unit test 2 timetable
 - [x] Update ATOM
+- [ ] fee entry
 - [ ] add concession
 - [x] 6 A - 11693 - RIDDHIMA SHASTRI
 	-  apparently somehow refund was initiated or something at ntt data. shiju sir wanted the parent to send an email saying all things are clear for their side.
