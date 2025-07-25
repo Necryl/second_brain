@@ -1,24 +1,19 @@
 -
-## 2025-07-24
+## 2025-07-25
 - [ ] Prepare photos for ID Card print
 	- [ ] Look into unknown issue id cards
 	- [ ] take id card from pakhi singh - 2d
-	- [x] prepare image report to confirm photos of dob issues
 	- [ ] print and confirm image report from the teachers
 	- [ ] Update recieved ID cards of days before
 	- [ ] confirm data and photos
-- [x] Upload FMW photo album to the FMW page on website 0
-- [ ] refill printer catridge.
-- [x] upload albums
-- [x] add sms credits
+- [ ] upload unit test 2 timetable
 - [ ] Update ATOM
-- [ ] scan anjali maams papers
-- [ ] give bill to sr assunta(in august)
 - [ ] add concession
 - [ ] 6 A - 11693 - RIDDHIMA SHASTRI
 	-  apparently somehow refund was initiated or something at ntt data. shiju sir wanted the parent to send an email saying all things are clear for their side.
 	- I called the parents and they were paranoid and told me to stop calling about this. I tried to speak with them and they said, they will visit the school in person to settle the matter. I asked tomorrow? But then they cut the call. Again.
 	- Today (24 July 2025), the father came, we explained, and he agreed to send an email saying there is no problems from his side. I called Shiju sir on how this will be done, so as instructed I forwarded the emails with the chargeback team to the parent, and he promised to do reply all on that email saying everything is clear for him.
+	- he replied but only to me. I will have to forward the email to every other email in that thread
 - [ ] Those email entries from Jenie maam
 - [ ] Create check list for tomorrow
 - [ ] create class pass for rohini george miss - 2d
@@ -26,6 +21,7 @@
 	- [ ] Ask Sister, for Sisters data
 	- [ ] Which sisters?
 - [ ] Ask Rajeev about teachers id card samples
+- [ ] give bill to sr assunta(in august)
 - [ ] Website
 - [ ] check fee entries in software
 - [ ] Research about setting up a display in school lounge to display daily birthday wishes and latest event photos.
@@ -36,6 +32,13 @@
 
 - [ ] buy two more hard-disk, one for school and one for our work (jose sir said he is bringing them 21st July 2025)
 - [ ] sister wants a pendrive each for me akhil pankaj (2025-07-15)
+## 2025-07-24
+- [ ] Prepare photos for ID Card print
+	- [x] prepare image report to confirm photos of dob issues
+- [x] Upload FMW photo album to the FMW page on website 0
+- [x] refill printer catridge.
+- [x] upload albums
+- [x] add sms credits
 ## 2025-07-23
 - [ ] Prepare photos for ID Card print
 	- [x] Look into unknown issue id cards
