@@ -6,7 +6,7 @@
 	- [ ] print and confirm image report from the teachers
 	- [ ] Update recieved ID cards of days before
 	- [ ] confirm data and photos
-- [ ] upload unit test 2 timetable
+- [x] upload unit test 2 timetable
 - [ ] Update ATOM
 - [ ] add concession
 - [ ] 6 A - 11693 - RIDDHIMA SHASTRI
