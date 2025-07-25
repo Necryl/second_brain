@@ -7,9 +7,9 @@
 	- [ ] Update recieved ID cards of days before
 	- [ ] confirm data and photos
 - [x] upload unit test 2 timetable
-- [ ] Update ATOM
+- [x] Update ATOM
 - [ ] add concession
-- [ ] 6 A - 11693 - RIDDHIMA SHASTRI
+- [x] 6 A - 11693 - RIDDHIMA SHASTRI
 	-  apparently somehow refund was initiated or something at ntt data. shiju sir wanted the parent to send an email saying all things are clear for their side.
 	- I called the parents and they were paranoid and told me to stop calling about this. I tried to speak with them and they said, they will visit the school in person to settle the matter. I asked tomorrow? But then they cut the call. Again.
 	- Today (24 July 2025), the father came, we explained, and he agreed to send an email saying there is no problems from his side. I called Shiju sir on how this will be done, so as instructed I forwarded the emails with the chargeback team to the parent, and he promised to do reply all on that email saying everything is clear for him.
