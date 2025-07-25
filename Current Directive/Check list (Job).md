@@ -3,7 +3,8 @@
 - [ ] Prepare photos for ID Card print
 	- [ ] Look into unknown issue id cards
 	- [ ] take id card from pakhi singh - 2d
-	- [ ] print and confirm image report from the teachers
+	- [x] print  image report from the teachers
+	- [ ] confirm image report from the teachers
 	- [ ] Update recieved ID cards of days before
 	- [ ] confirm data and photos
 - [x] upload unit test 2 timetable
