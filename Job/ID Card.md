@@ -42,3 +42,7 @@ Photo needs to be taken:
 - [x] 9 A - 14053 - AVANI SRIVASTAVA (New Admission )
 - [ ] MANYA AGRAWAL - 6D (New Admission)
 - [ ] INAYA KHAN - 6D (old student but came now)
+
+Urgent yoga state championship 
+- Jyoti Singh 12 b
+- eshanya gurjar - 12b 
