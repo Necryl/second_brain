@@ -44,5 +44,5 @@ Photo needs to be taken:
 - [ ] INAYA KHAN - 6D (old student but came now)
 
 Urgent yoga state championship 
-- Jyoti Singh 12 b
-- eshanya gurjar - 12b 
+- Jyoti Singh 12 b - 9680
+- eshanya gurjar - 12b - 12597
