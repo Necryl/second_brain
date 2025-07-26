@@ -7,7 +7,8 @@
 	- [ ] Update recieved ID cards of days before
 	- [ ] confirm data and photos
 - [x] Update ATOM
-- [ ] fee entry
+- [x] fee entry
+- [x] take photos of primary class art and craft activity
 - [ ] add concession
 - [ ] School payemnt guide video
 - [ ] Those email entries from Jenie maam
