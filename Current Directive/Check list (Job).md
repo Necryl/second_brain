@@ -4,11 +4,14 @@
 	- [ ] Look into unknown issue id cards
 	- [ ] take id card from pakhi singh - 2d
 	- [ ] confirm image report from the teachers
+		- 
 	- [ ] Update recieved ID cards of days before
 	- [ ] confirm data and photos
 - [x] Update ATOM
 - [x] fee entry
 - [x] take photos of primary class art and craft activity
+- [ ] take care of the two urgent id cards
+- [ ] 
 - [ ] add concession
 - [ ] School payemnt guide video
 - [ ] Those email entries from Jenie maam
