@@ -4,7 +4,16 @@
 	- [ ] Look into unknown issue id cards
 	- [ ] take id card from pakhi singh - 2d
 	- [ ] confirm image report from the teachers
-		- 
+		- 5c
+			- 11987 -> 12001 (sneha giri)
+			- 12001 (tapasya)
+			- 12021 - vinayaka
+			- 12367 and 12368 are twins (need to confirm)
+			- 12854 - vedangi
+			- 11981-13396   - shanvi mahuney
+			- 12013-12012  - tavishi
+			- 12854-12013  - uzma
+			- shaurya and shaumya are twins
 	- [ ] Update recieved ID cards of days before
 	- [ ] confirm data and photos
 - [x] Update ATOM
