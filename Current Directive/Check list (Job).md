@@ -6,7 +6,7 @@
 	- [ ] confirm image report from the teachers
 	- [ ] Update recieved ID cards of days before
 	- [ ] confirm data and photos
-- [ ] Update ATOM
+- [x] Update ATOM
 - [ ] fee entry
 - [ ] add concession
 - [ ] School payemnt guide video
