@@ -18,15 +18,13 @@
 	- [ ] Ask Sister, for Sisters data
 	- [ ] Which sisters?
 - [ ] Ask Rajeev about teachers id card samples
-- [ ] give bill to sr assunta(in august)
 - [ ] Website
 - [ ] check fee entries in software
-- [ ] Research about setting up a display in school lounge to display daily birthday wishes and latest event photos.
 - [ ] Identify days for which you need to make posters and make em
 - [ ] buy new Teleios uniforms
 	- [ ] confirm what to buy, overalls will be too hot, why not shirts?
-- [ ] A student wants their application for mother's name back with their documents in class 9 D
 
+- [ ] give bill to sr assunta(in august)
 - [ ] buy two more hard-disk, one for school and one for our work (jose sir said he is bringing them 21st July 2025)
 - [ ] sister wants a pendrive each for me akhil pankaj (2025-07-15)
 ## 2025-07-25
@@ -39,6 +37,7 @@
 	- I called the parents and they were paranoid and told me to stop calling about this. I tried to speak with them and they said, they will visit the school in person to settle the matter. I asked tomorrow? But then they cut the call. Again.
 	- Today (24 July 2025), the father came, we explained, and he agreed to send an email saying there is no problems from his side. I called Shiju sir on how this will be done, so as instructed I forwarded the emails with the chargeback team to the parent, and he promised to do reply all on that email saying everything is clear for him.
 	- he replied but only to me. I will have to forward the email to every other email in that thread
+- [ ] A student wants their application for mother's name back with their documents in class 9 D
 ## 2025-07-24
 - [ ] Prepare photos for ID Card print
 	- [x] prepare image report to confirm photos of dob issues
