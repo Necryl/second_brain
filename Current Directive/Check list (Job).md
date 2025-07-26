@@ -1,9 +1,9 @@
 -
 ## 2025-07-26
 - [ ] Prepare photos for ID Card print
-	- [ ] Look into unknown issue id cards
+	- [x] Look into unknown issue id cards
 	- [ ] take id card from pakhi singh - 2d
-	- [ ] confirm image report from the teachers
+	- [x] confirm image report from the teachers
 		- 5c
 			- 11987 -> 12001 (sneha giri)
 			- 12001 -> 12012 (tapasya)
@@ -20,9 +20,8 @@
 - [x] fee entry
 - [x] take photos of primary class art and craft activity
 - [ ] take care of the two urgent id cards
-- [ ] 
 - [ ] add concession
-- [ ] School payemnt guide video
+- [ ] School payment guide video
 - [ ] Those email entries from Jenie maam
 - [ ] Create check list for tomorrow
 - [ ] create class pass for rohini george miss - 2d

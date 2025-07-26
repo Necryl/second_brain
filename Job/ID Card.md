@@ -14,20 +14,20 @@ Special cases:
 - Kid removed the printed card from the frame
 	- LKG	A - 13744 - TAHOOR FATIMA
 - Photo Change:
-	- 5 C - 12012 - TAPASYA YADAV 
-	- 3 B - 12413 - ANIKA
-	- 5 C - 13396 - SAMRIDDHI RAWAT
-	- 5 C - 12013 - TAVISHI MISHRA
-	- 2 D - 12746 - NIVITA ARYA
-	- 5 C - 11987 - SHAURYA
-	- 5 C - 12021 - VEDANGI RAJORIYA
-	- 5 C - 12854 - UZMA TOFEEQ
-	- 5 C - 12001 - SNEHA GIRI
-	- 8 D - 14008 - SHANVI SINGH II
-	- 3 B - 12412 - ANIKA
-	- 5 C - 11981 - SHAANVI MAHUNEY
-	- 8D - 11036 - SHANVI SINGH
+	- [ ] 5 C - 12012 - TAPASYA YADAV 
+	- [ ] 5 C - 11981 - SHAANVI MAHUNEY
+	- [ ] 5 C - 13396 - SAMRIDDHI RAWAT
+	- [ ] 5 C - 12013 - TAVISHI MISHRA
+	- [ ] 5 C - 11987 - SHAURYA
+	- [ ] 5 C - 12021 - VEDANGI RAJORIYA
+	- [ ] 5 C - 12854 - UZMA TOFEEQ
+	- [ ] 5 C - 12001 - SNEHA GIRI
+	- [x] 3 B - 12413 - ANIKA
+	- [x] 3 B - 12412 - ANIKA
+	- [ ] 2 D - 12746 - NIVITA ARYA
 	- [ ] 2D - PAKHI SINGH - ID Card needs to be recalled
+	- [ ] 8 D - 14008 - SHANVI SINGH II
+	- [ ] 8D - 11036 - SHANVI SINGH
 - Spelling mistake:
 	- [x] 5 A - 12859 - MAHIRA DWIVEDI - mother's name (fixed)
 	- [x] 9 B - 14010 - AKSHARA RAO - mother's name (already correct in software, mistake made by Rajeev when making the name shorter with initials. Typed in the initial twice.)
