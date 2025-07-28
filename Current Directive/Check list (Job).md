@@ -1,26 +1,16 @@
 -
-## 2025-07-26
+## 2025-07-28
 - [ ] Prepare photos for ID Card print
-	- [x] Look into unknown issue id cards
+	- [ ] Look into unknown issue id cards
 	- [ ] take id card from pakhi singh - 2d
-	- [x] confirm image report from the teachers
+	- [ ] confirm image report from the teachers
 		- 5c
-			- 11987 -> 12001 (sneha giri)
-			- 12001 -> 12012 (tapasya)
-			- 12021 -> 13995 vinayaka
-			- 12367 and 12368 are twins (need to confirm)
-			- 12854 -> 12021 vedangi
-			- 11981-13396   - shanvi mahuney
-			- 12013-12012  - tavishi
-			- 12854-12013  - uzma
-			- shaurya and shaumya are also twins
+			- those remaining two plus the twins
 	- [ ] Update recieved ID cards of days before
-	- [ ] confirm data and photos
-- [x] Update ATOM
-- [x] fee entry
-- [x] take photos of primary class art and craft activity
+- [ ] Update ATOM
+- [ ] fee entry
 - [ ] take care of the two urgent id cards
-- [ ] add concession
+- [ ] concession
 - [ ] School payment guide video
 - [ ] Those email entries from Jenie maam
 - [ ] Create check list for tomorrow
@@ -38,6 +28,27 @@
 - [ ] give bill to sr assunta(in august)
 - [ ] buy two more hard-disk, one for school and one for our work (jose sir said he is bringing them 21st July 2025)
 - [ ] sister wants a pendrive each for me akhil pankaj (2025-07-15)
+## 2025-07-27
+Sunday
+## 2025-07-26
+- [ ] Prepare photos for ID Card print
+	- [x] Look into unknown issue id cards
+	- [ ] take id card from pakhi singh - 2d
+	- [x] confirm image report from the teachers
+		- 5c
+			- 11987 -> 12001 (sneha giri)
+			- 12001 -> 12012 (tapasya)
+			- 12021 -> 13995 vinayaka
+			- 12367 and 12368 are twins (need to confirm)
+			- 12854 -> 12021 vedangi
+			- 11981-13396   - shanvi mahuney
+			- 12013-12012  - tavishi
+			- 12854-12013  - uzma
+			- shaurya and shaumya are also twins
+- [x] Update ATOM
+- [x] fee entry
+- [x] take photos of primary class art and craft activity
+- [ ] add concession
 ## 2025-07-25
 - [ ] Prepare photos for ID Card print
 	- [x] print  image report from the teachers
