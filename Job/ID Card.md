@@ -13,6 +13,8 @@ Special cases:
 	- 10 D - 10431 - KAVYA ANAND
 - Kid removed the printed card from the frame
 	- LKG	A - 13744 - TAHOOR FATIMA
+		- Paid - Rs. 50
+		- Akhil must give me this 50
 - Photo Change:
 	- [ ] 5 C - 12012 - TAPASYA YADAV 
 	- [ ] 5 C - 11981 - SHAANVI MAHUNEY
