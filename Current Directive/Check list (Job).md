@@ -2,7 +2,7 @@
 ## 2025-07-28
 - [ ] Prepare photos for ID Card print
 	- [ ] Look into unknown issue id cards
-	- [ ] take id card from pakhi singh - 2d
+	- [ ] take id card from pakhi singh - 2d apparently she didn't get any
 	- [ ] confirm image report from the teachers
 		- 5c
 			- those remaining two plus the twins
