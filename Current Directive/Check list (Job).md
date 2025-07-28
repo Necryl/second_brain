@@ -8,6 +8,7 @@
 			- those remaining two plus the twins
 	- [ ] Update recieved ID cards of days before
 - [ ] Update ATOM
+- [x] Attendance
 - [ ] fee entry
 - [ ] take care of the two urgent id cards
 - [ ] concession
