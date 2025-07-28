@@ -1,5 +1,6 @@
 ## Work Push Fight and nothing else, Just work work work
 ## work until my bones crack, spare nothing
+## we a
 ---
 2025-07-28
 if we are gonna change
