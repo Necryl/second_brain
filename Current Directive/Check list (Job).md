@@ -1,7 +1,7 @@
 -
 ## 2025-07-28
 - [ ] Prepare photos for ID Card print
-	- [ ] Look into unknown issue id cards
+	- [ ] Look into unknown issue id cards (9 B Shreya Sharma - check if she is absent today)
 	- [ ] take id card from pakhi singh - 2d apparently she didn't get any
 	- [ ] confirm image report from the teachers
 		- 5c
