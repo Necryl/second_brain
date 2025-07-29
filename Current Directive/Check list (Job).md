@@ -2,7 +2,6 @@
 ## 2025-07-29
 - [ ] Prepare photos for ID Card print
 	- [ ] Look into unknown issue id cards (9 B Shreya Sharma - check if she is absent today)
-	- [ ] take id card from pakhi singh - 2d apparently she didn't get any
 	- [x] confirm image report from the teachers
 		- 5c
 			- those remaining two plus the twins
@@ -32,7 +31,7 @@
 ## 2025-07-28
 - [ ] Prepare photos for ID Card print
 	- [x] Look into unknown issue id cards (9 B Shreya Sharma - check if she is absent today) (she was absent)
-	- [x] take id card from pakhi singh - 2d apparently she didn't get any (she was absent)
+	- [x] take id card from pakhi singh - 2d apparently she didn't get any
 	- [x] separate the remaining received id cards
 - [x] Attendance
 - [x] concession
