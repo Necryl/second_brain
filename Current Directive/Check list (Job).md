@@ -1,18 +1,19 @@
 -
-## 2025-07-28
+## 2025-07-29
 - [ ] Prepare photos for ID Card print
 	- [ ] Look into unknown issue id cards (9 B Shreya Sharma - check if she is absent today)
 	- [ ] take id card from pakhi singh - 2d apparently she didn't get any
-	- [ ] confirm image report from the teachers
+	- [x] confirm image report from the teachers
 		- 5c
 			- those remaining two plus the twins
 	- [ ] Update recieved ID cards of days before
 - [ ] Update ATOM
-- [x] Attendance
 - [ ] fee entry
 - [ ] take care of the two urgent id cards
-- [x] concession
-- [ ] School payment guide video
+- [ ] concession (seema maam said there is one more)
+- [ ] School payment guide video (upload it to app)
+- [ ] give their new hardisk to school (get the bill?)
+- [ ] give to harish the ssd for the computer
 - [ ] Those email entries from Jenie maam
 - [ ] Create check list for tomorrow
 - [ ] create class pass for rohini george miss - 2d
@@ -27,8 +28,16 @@
 	- [ ] confirm what to buy, overalls will be too hot, why not shirts?
 
 - [ ] give bill to sr assunta(in august)
-- [ ] buy two more hard-disk, one for school and one for our work (jose sir said he is bringing them 21st July 2025)
 - [ ] sister wants a pendrive each for me akhil pankaj (2025-07-15)
+## 2025-07-28
+- [ ] Prepare photos for ID Card print
+	- [x] Look into unknown issue id cards (9 B Shreya Sharma - check if she is absent today) (she was absent)
+	- [x] take id card from pakhi singh - 2d apparently she didn't get any (she was absent)
+	- [x] separate the remaining received id cards
+- [x] Attendance
+- [x] concession
+- [x] School payment guide video
+- [x] buy two more hard-disk, one for school and one for our work (arrived via courier)
 ## 2025-07-27
 Sunday
 ## 2025-07-26
