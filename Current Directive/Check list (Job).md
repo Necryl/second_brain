@@ -7,7 +7,7 @@
 			- those remaining two plus the twins
 	- [x] need to take a photo of 13396 - samriddhi rawat - 5C
 	- [x] Update recieved ID cards of days before
-	- [ ] get samriddhi rawat photo of 5c from akhil
+	- [x] get samriddhi rawat photo of 5c from akhil
 	- [ ] update today's dob issues id cards
 	- [ ] prepare data of  dob issues cards gotten so far
 	- [ ] take care of the two urgent id cards
