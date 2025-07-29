@@ -1,10 +1,11 @@
 -
 ## 2025-07-29
 - [ ] Prepare photos for ID Card print
-	- [ ] Look into unknown issue id cards (9 B Shreya Sharma - check if she is absent today)
+	- [x] Look into unknown issue id cards (9 B Shreya Sharma - check if she is absent today)
 	- [x] confirm image report from the teachers
 		- 5c
 			- those remaining two plus the twins
+	- [ ] need to take a photo of 13396 - samriddhi rawat - 5C
 	- [ ] Update recieved ID cards of days before
 - [ ] Update ATOM
 - [ ] fee entry

@@ -36,10 +36,6 @@ Special cases:
 - DOB incorrect:
 	- [x] 6 C - 13045 - ANANYA YADAV (fixed)
 
-
-Unknown Issue:
-- 9 B - 10709 - SHREYA SHARMA
-
 Photo needs to be taken:
 - [x] 9 A - 14053 - AVANI SRIVASTAVA (New Admission )
 - [ ] MANYA AGRAWAL - 6D (New Admission)
