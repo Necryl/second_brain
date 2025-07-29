@@ -17,21 +17,22 @@
 	- [ ] call rajeev confirm logistics
 	- [ ] give id cards and data batch 1
 - [x] Update ATOM
+- [ ] give to harish the ssd for the computer
+- [ ] give their new hardisk to school (get the bill?)
+- [ ] Those email entries from Jenie maam
+- [ ] Ask Rajeev about teachers id card samples
+- [ ] School payment guide video (upload it to app)
 - [ ] fee entry
 - [ ] concession (seema maam said there is one more)
-- [ ] School payment guide video (upload it to app)
-- [ ] give their new hardisk to school (get the bill?)
-- [ ] give to harish the ssd for the computer
-- [ ] Those email entries from Jenie maam
-- [ ] Create check list for tomorrow
 - [ ] create class pass for rohini george miss - 2d
+- [ ] Identify days for which you need to make posters and make em
+- [ ] Create check list for tomorrow
+
 - [ ] Send Sister, ID Card data to Rajeev
 	- [ ] Ask Sister, for Sisters data
 	- [ ] Which sisters?
-- [ ] Ask Rajeev about teachers id card samples
 - [ ] Website
 - [ ] check fee entries in software
-- [ ] Identify days for which you need to make posters and make em
 - [ ] buy new Teleios uniforms
 	- [ ] confirm what to buy, overalls will be too hot, why not shirts?
 
