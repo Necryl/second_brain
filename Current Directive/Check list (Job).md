@@ -5,11 +5,19 @@
 	- [x] confirm image report from the teachers
 		- 5c
 			- those remaining two plus the twins
-	- [ ] need to take a photo of 13396 - samriddhi rawat - 5C
-	- [ ] Update recieved ID cards of days before
+	- [x] need to take a photo of 13396 - samriddhi rawat - 5C
+	- [x] Update recieved ID cards of days before
+	- [ ] get samriddhi rawat photo of 5c from akhil
+	- [ ] update today's dob issues id cards
+	- [ ] prepare data of  dob issues cards gotten so far
+	- [ ] take care of the two urgent id cards
+	- [ ] check other id card problems that can go with this one
+	- [ ] prepare non dob issue id cards seperately
+	- [ ] make record of non dob issue id cards being sent
+	- [ ] call rajeev confirm logistics
+	- [ ] give id cards and data batch 1
 - [x] Update ATOM
 - [ ] fee entry
-- [ ] take care of the two urgent id cards
 - [ ] concession (seema maam said there is one more)
 - [ ] School payment guide video (upload it to app)
 - [ ] give their new hardisk to school (get the bill?)
