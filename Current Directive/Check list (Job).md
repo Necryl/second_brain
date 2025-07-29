@@ -7,7 +7,7 @@
 			- those remaining two plus the twins
 	- [ ] need to take a photo of 13396 - samriddhi rawat - 5C
 	- [ ] Update recieved ID cards of days before
-- [ ] Update ATOM
+- [x] Update ATOM
 - [ ] fee entry
 - [ ] take care of the two urgent id cards
 - [ ] concession (seema maam said there is one more)
