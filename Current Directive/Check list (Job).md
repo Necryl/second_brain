@@ -17,7 +17,6 @@
 	- [ ] call rajeev confirm logistics
 	- [ ] give id cards and data batch 1
 - [x] Update ATOM
-- [ ] give to harish the ssd for the computer
 - [ ] give their new hardisk to school (get the bill?)
 - [ ] Those email entries from Jenie maam
 - [ ] Ask Rajeev about teachers id card samples
@@ -26,6 +25,7 @@
 - [ ] concession (seema maam said there is one more)
 - [ ] create class pass for rohini george miss - 2d
 - [ ] Identify days for which you need to make posters and make em
+- [ ] give to harish the ssd for the computer when he comes for it
 - [ ] Create check list for tomorrow
 
 - [ ] Send Sister, ID Card data to Rajeev
