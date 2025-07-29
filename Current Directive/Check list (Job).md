@@ -11,7 +11,7 @@
 - [x] Attendance
 - [ ] fee entry
 - [ ] take care of the two urgent id cards
-- [ ] concession
+- [x] concession
 - [ ] School payment guide video
 - [ ] Those email entries from Jenie maam
 - [ ] Create check list for tomorrow
