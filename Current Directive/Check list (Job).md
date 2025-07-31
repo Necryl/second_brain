@@ -9,13 +9,15 @@
 	- [ ] ID cards not printed
 		- [ ] Make list of ID cards not made
 - [ ] new Salary scale
-	- [ ] check the sheet sent by sr assunta and prepare it
-	- [ ] Send to delhi office to be implemented into the software
-	- [ ] verify next steps
-- [ ] give their new hardisk to school (get the bill?)
+	- [x] check the sheet sent by sr assunta and prepare it
+	- [x] Send to delhi office to be implemented into the software
+	- [x] verify next steps
+	- [ ] Sojin will make the settings, verify he has done
+	- [ ] then discuss next steps with him
 - [ ] fee entry
+- [ ] give their new hardisk to school (get the bill?)
 - [ ] Those email entries from Jenie maam
-- [ ] Ask Rajeev about teachers id card samples
+- [ ] Ask Rajeev about teachers id card samples (said the straps and things will come on Monday, Tuesday, then the cards will be printed)
 - [ ] School payment guide video (upload it to app)
 - [ ] concession (seema maam said there is one more)
 - [ ] create class pass for rohini george miss - 2d
