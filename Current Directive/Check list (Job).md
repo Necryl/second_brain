@@ -1,27 +1,22 @@
 -
-## 2025-07-29
-- [ ] Prepare photos for ID Card print
-	- [x] Look into unknown issue id cards (9 B Shreya Sharma - check if she is absent today)
-	- [x] confirm image report from the teachers
-		- 5c
-			- those remaining two plus the twins
-	- [x] need to take a photo of 13396 - samriddhi rawat - 5C
-	- [x] Update recieved ID cards of days before
-	- [x] get samriddhi rawat photo of 5c from akhil
-	- [ ] update today's dob issues id cards
-	- [ ] prepare data of  dob issues cards gotten so far
-	- [ ] take care of the two urgent id cards
-	- [ ] check other id card problems that can go with this one
-	- [ ] prepare non dob issue id cards seperately
-	- [ ] make record of non dob issue id cards being sent
-	- [ ] call rajeev confirm logistics
-	- [ ] give id cards and data batch 1
-- [x] Update ATOM
+## 2025-07-31
+- [ ] ID Card
+	- [ ] DOB Issue
+		- [ ] update id card recall sheet to keep batch 1 seperated
+		- [ ] update records of id cards recalled post batch 1
+		- [ ] print list of remaining id cards to be recalled
+		- [ ] give the list to the teachers
+	- [ ] ID cards not printed
+		- [ ] Make list of ID cards not made
+- [ ] new Salary scale
+	- [ ] check the sheet sent by sr assunta and prepare it
+	- [ ] Send to delhi office to be implemented into the software
+	- [ ] verify next steps
 - [ ] give their new hardisk to school (get the bill?)
+- [ ] fee entry
 - [ ] Those email entries from Jenie maam
 - [ ] Ask Rajeev about teachers id card samples
 - [ ] School payment guide video (upload it to app)
-- [ ] fee entry
 - [ ] concession (seema maam said there is one more)
 - [ ] create class pass for rohini george miss - 2d
 - [ ] Identify days for which you need to make posters and make em
@@ -38,6 +33,26 @@
 
 - [ ] give bill to sr assunta(in august)
 - [ ] sister wants a pendrive each for me akhil pankaj (2025-07-15)
+## 2025-07-30
+- [ ] Prepare photos for ID Card print
+	- [x] prepare data of  dob issues cards gotten so far
+	- [x] take care of the two urgent id cards
+	- [x] check other id card problems that can go with this one
+	- [x] prepare non dob issue id cards seperately
+	- [x] make record of non dob issue id cards being sent
+	- [x] call rajeev confirm logistics
+	- [x] give id cards and data batch 1
+## 2025-07-29
+- [ ] Prepare photos for ID Card print
+	- [x] Look into unknown issue id cards (9 B Shreya Sharma - check if she is absent today)
+	- [x] confirm image report from the teachers
+		- 5c
+			- those remaining two plus the twins
+	- [x] need to take a photo of 13396 - samriddhi rawat - 5C
+	- [x] Update recieved ID cards of days before
+	- [x] get samriddhi rawat photo of 5c from akhil
+	- [x] update today's dob issues id cards
+- [x] Update ATOM
 ## 2025-07-28
 - [ ] Prepare photos for ID Card print
 	- [x] Look into unknown issue id cards (9 B Shreya Sharma - check if she is absent today) (she was absent)
