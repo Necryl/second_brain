@@ -3,7 +3,7 @@
 - [ ] ID Card
 	- [ ] DOB Issue
 		- [x] update id card recall sheet to keep batch 1 seperated
-		- [ ] update records of id cards recalled post batch 1
+		- [x] update records of id cards recalled post batch 1
 		- [ ] print list of remaining id cards to be recalled
 		- [ ] give the list to the teachers
 	- [ ] ID cards not printed
