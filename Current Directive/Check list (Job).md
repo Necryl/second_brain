@@ -14,7 +14,7 @@
 	- [x] verify next steps
 	- [ ] Sojin will make the settings, verify he has done
 	- [ ] then discuss next steps with him
-- [ ] fee entry
+- [x] fee entry
 - [x] update ATOM fees
 - [ ] give their new hardisk to school (get the bill?)
 - [ ] Those email entries from Jenie maam
