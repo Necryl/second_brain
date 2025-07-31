@@ -2,7 +2,7 @@
 ## 2025-07-31
 - [ ] ID Card
 	- [ ] DOB Issue
-		- [ ] update id card recall sheet to keep batch 1 seperated
+		- [x] update id card recall sheet to keep batch 1 seperated
 		- [ ] update records of id cards recalled post batch 1
 		- [ ] print list of remaining id cards to be recalled
 		- [ ] give the list to the teachers
