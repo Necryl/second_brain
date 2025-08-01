@@ -3,10 +3,29 @@
 - [ ] ID Card
 	- [ ] DOB Issue
 		- [ ] Get the recalled id cards or ask the teachers where is it
+		- [ ] Update dob cards received so far
 	- [ ] ID cards not printed
-		- [ ] Make list of ID cards not made
+		- [x] Make list of photos not taken for ID Card
+		- [ ] Get the photos
+		- [ ] Verify all photos are taken
+		- [ ] Print image report for all classes
+		- [ ] give to teachers for verification
+		- [ ] get the reports
+		- [ ] update the images
+		- [ ] print image report once more
+		- [ ] confirm all images are correct
+		- [ ] upload images to software
+		- [ ] get list of all ID Cards not yet made
+		- [ ] verify data and images from parents
+		- [ ] update any changes
+		- [ ] prepare data for printers
+		- [ ] give to vendor
+		- [ ] get id cards back
+		- [ ] deliver to students
+	- [ ] Teacher's ID Card
+		- [ ] On Monday, ask Rajeev if the frames and straps have come
 - [ ] new Salary scale
-	- [ ] Sojin will make the settings, verify he has done
+	- [x] Sojin will make the settings, verify he has done
 	- [ ] employee updation - enter basic pay
 	- [ ] in payhead applicable ensure the pf is ticked for those who have it and not for those who don't
 	- [ ] if anybody's pf is higher than 1800, in their employee details, limit applicable and er should be set to no.
