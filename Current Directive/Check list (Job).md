@@ -45,7 +45,7 @@
 - [x] give their new hardisk to school (get the bill? Jose sir said the bill will come later)
 - [x] Ask Rajeev about teachers id card samples (said the straps and things will come on Monday, Tuesday, then the cards will be printed)
 ## 2025-07-30
-- [ ] give to harish the ssd for the computer when he comes for it
+- [x] give to harish the ssd for the computer when he comes for it
 - [ ] Prepare photos for ID Card print
 	- [x] prepare data of  dob issues cards gotten so far
 	- [x] take care of the two urgent id cards
