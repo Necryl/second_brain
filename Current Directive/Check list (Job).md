@@ -7,6 +7,9 @@
 		- [ ] Make list of ID cards not made
 - [ ] new Salary scale
 	- [ ] Sojin will make the settings, verify he has done
+	- [ ] employee updation - enter basic pay
+	- [ ] in payhead applicable ensure the pf is ticked for those who have it and not for those who don't
+	- [ ] if anybody's pf is higher than 1800, in their employee details, limit applicable and er should be set to no.
 	- [ ] then discuss next steps with him
 - [ ] fee entry
 - [ ] fee report
