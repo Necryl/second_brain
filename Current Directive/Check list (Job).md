@@ -1,29 +1,22 @@
 -
-## 2025-07-31
+## 2025-08-01
 - [ ] ID Card
 	- [ ] DOB Issue
-		- [x] update id card recall sheet to keep batch 1 seperated
-		- [x] update records of id cards recalled post batch 1
-		- [x] print list of remaining id cards to be recalled
-		- [x] give the list to the teachers
+		- [ ] Get the recalled id cards or ask the teachers where is it
 	- [ ] ID cards not printed
 		- [ ] Make list of ID cards not made
 - [ ] new Salary scale
-	- [x] check the sheet sent by sr assunta and prepare it
-	- [x] Send to delhi office to be implemented into the software
-	- [x] verify next steps
 	- [ ] Sojin will make the settings, verify he has done
 	- [ ] then discuss next steps with him
-- [x] fee entry
-- [x] update ATOM fees
-- [ ] give their new hardisk to school (get the bill?)
+- [ ] fee entry
+- [ ] fee report
+- [ ] august salary
+- [ ] update ATOM fees
 - [ ] Those email entries from Jenie maam
-- [ ] Ask Rajeev about teachers id card samples (said the straps and things will come on Monday, Tuesday, then the cards will be printed)
 - [ ] School payment guide video (upload it to app)
 - [ ] concession (seema maam said there is one more)
 - [ ] create class pass for rohini george miss - 2d
 - [ ] Identify days for which you need to make posters and make em
-- [ ] give to harish the ssd for the computer when he comes for it
 - [ ] Create check list for tomorrow
 
 - [ ] Send Sister, ID Card data to Rajeev
@@ -36,7 +29,23 @@
 
 - [ ] give bill to sr assunta(in august)
 - [ ] sister wants a pendrive each for me akhil pankaj (2025-07-15)
+## 2025-07-31
+- [ ] ID Card
+	- [ ] DOB Issue
+		- [x] update id card recall sheet to keep batch 1 seperated
+		- [x] update records of id cards recalled post batch 1
+		- [x] print list of remaining id cards to be recalled
+		- [x] give the list to the teachers
+- [ ] new Salary scale
+	- [x] check the sheet sent by sr assunta and prepare it
+	- [x] Send to delhi office to be implemented into the software
+	- [x] verify next steps
+- [x] fee entry
+- [x] update ATOM fees
+- [x] give their new hardisk to school (get the bill? Jose sir said the bill will come later)
+- [x] Ask Rajeev about teachers id card samples (said the straps and things will come on Monday, Tuesday, then the cards will be printed)
 ## 2025-07-30
+- [ ] give to harish the ssd for the computer when he comes for it
 - [ ] Prepare photos for ID Card print
 	- [x] prepare data of  dob issues cards gotten so far
 	- [x] take care of the two urgent id cards
