@@ -1,4 +1,5 @@
 # Let work be the only thing on your mind
+# Nothing else matters
 # Work Push Fight and nothing else, Just work work work
 # work until my bones crack, spare nothing
 # we are going all in
